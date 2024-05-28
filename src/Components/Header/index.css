@@ -1,0 +1,21 @@
+.header-options{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: transparent;
+    list-style-type: None;
+    padding-left: 0px;
+    height: 60px;
+}
+
+
+
+.nav-option{
+    margin-right: 20px;
+}
+.nav-link{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #070707;
+}
